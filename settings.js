@@ -48,7 +48,7 @@ module.exports = {
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : flse,
+     ALL_MESSAGES : false,
      ONLY_COMMANDS : false,
      STATUS : false,
   },
